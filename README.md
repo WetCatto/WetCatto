@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WetCatto
+- 👋 Hi, I’m WetCatto
 - 👀 I’m interested in Data Engineering
 - 🌱 I’m currently learning SQL, Python, and Version control
 - 📫 How to reach me wetcatto05@gmail.com
