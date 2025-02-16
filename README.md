@@ -6,7 +6,7 @@
 Technologies I used so far:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,r,py,sklearn,pytorch,tensorflow,mysql,postgres,git,github,gcp,terraform,bash" />
+    <img src="https://skillicons.dev/icons?i=java,r,py,sklearn,mysql,postgres,git,github,gcp,terraform,bash" />
   </a>
 </p>
 <!---
