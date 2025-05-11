@@ -2,6 +2,13 @@
 <h3 align="center">A passionate Data Engineer from PH</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wetcatto&label=Profile%20views&color=0e75b6&style=flat" alt="wetcatto" /> </p>
+
+- 🌱 I’m currently learning **Machine Learning and Data Pipelines**
+
+- 📫 How to reach me **wetcatto05@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
