@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm James</h1>
-<h3 align="center">A passionate frontend developer from PH</h3>
+<h3 align="center">A passionate Data Engineer from PH</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wetcatto&label=Profile%20views&color=0e75b6&style=flat" alt="wetcatto" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
