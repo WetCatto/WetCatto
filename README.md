@@ -12,10 +12,5 @@
 | **ML & DS** | ![ML](https://skillicons.dev/icons?i=pytorch,sklearn&theme=dark) |
 | **DevOps** | ![DevOps](https://skillicons.dev/icons?i=linux,ubuntu,bash,git,github&theme=dark) |
 
-***
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WetCatto/WetCatto/main/snake/github-snake-dark.svg">
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/WetCatto/WetCatto/main/snake/github-snake.svg" width="100%">
-</picture>
 
